@@ -1,4 +1,29 @@
-# @vaultbase/mcp
+<p align="center">
+  <a href="https://vaultbase.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaultbase-sh/vaultbase/main/assets/vaultbase-wordmark.svg">
+      <img src="https://raw.githubusercontent.com/vaultbase-sh/vaultbase/main/assets/vaultbase-wordmark-light.svg" alt="Vaultbase" width="300">
+    </picture>
+  </a>
+</p>
+
+<h3 align="center"><code>@vaultbase/mcp</code></h3>
+
+<p align="center">Connect any MCP client to a remote Vaultbase</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@vaultbase/mcp"><img alt="npm version" src="https://img.shields.io/npm/v/%40vaultbase%2Fmcp?style=flat-square&color=e85a4f"></a>
+  <a href="https://www.npmjs.com/package/@vaultbase/mcp"><img alt="npm downloads" src="https://img.shields.io/npm/dm/%40vaultbase%2Fmcp?style=flat-square&color=1b1a1a"></a>
+  <img alt="Node 18+" src="https://img.shields.io/node/v/%40vaultbase%2Fmcp?style=flat-square&color=1b1a1a">
+  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/npm/l/%40vaultbase%2Fmcp?style=flat-square&color=1b1a1a"></a>
+</p>
+
+<p align="center">
+  <a href="https://vaultbase.dev">Vaultbase</a> ·
+  <a href="https://docs.vaultbase.dev">Docs</a> ·
+  <a href="https://github.com/vaultbase-sh/vaultbase">Server</a> ·
+  <a href="https://www.npmjs.com/package/@vaultbase/mcp">npm</a>
+</p>
 
 Stdio↔HTTP bridge for the [Vaultbase](https://vaultbase.dev) MCP server.
 
