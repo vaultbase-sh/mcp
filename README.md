@@ -15,7 +15,7 @@
   <a href="https://www.npmjs.com/package/@vaultbase/mcp"><img alt="npm version" src="https://img.shields.io/npm/v/%40vaultbase%2Fmcp?style=flat-square&color=e85a4f"></a>
   <a href="https://www.npmjs.com/package/@vaultbase/mcp"><img alt="npm downloads" src="https://img.shields.io/npm/dm/%40vaultbase%2Fmcp?style=flat-square&color=1b1a1a"></a>
   <img alt="Node 18+" src="https://img.shields.io/node/v/%40vaultbase%2Fmcp?style=flat-square&color=1b1a1a">
-  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/npm/l/%40vaultbase%2Fmcp?style=flat-square&color=1b1a1a"></a>
+  <a href="https://github.com/vaultbase-sh/mcp/blob/main/LICENSE"><img alt="MIT license" src="https://img.shields.io/npm/l/%40vaultbase%2Fmcp?style=flat-square&color=1b1a1a"></a>
 </p>
 
 <p align="center">

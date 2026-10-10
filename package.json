@@ -1,6 +1,6 @@
 {
   "name": "@vaultbase/mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Stdio↔HTTP bridge for the Vaultbase MCP server — connect Claude Desktop / Cursor / any MCP client to a remote Vaultbase deployment.",
   "type": "module",
   "main": "./dist/index.cjs",
