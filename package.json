@@ -17,7 +17,7 @@
     }
   },
   "bin": {
-    "vaultbase-mcp": "./dist/bin.js"
+    "vaultbase-mcp": "dist/bin.js"
   },
   "files": [
     "dist",
